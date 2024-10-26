@@ -1,5 +1,5 @@
 # CIFAR-10 Text-to-Image Stable Diffusion Training
-
+ 
 This project demonstrates the training of a **Stable Diffusion model** on the **CIFAR-10 dataset** to create a **Text-to-Image generation model**. The model uses a combination of textual prompts and the CIFAR-10 image dataset to train a generative model that can produce images based on textual descriptions.
 
 ## Overview
